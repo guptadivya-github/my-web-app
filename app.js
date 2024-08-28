@@ -9,7 +9,7 @@ app.get('/', (req, res) => {
         <title>Version 1</title>
         <style>
           body {
-            background-color: yellow;
+            background-color: pink;
             color: white;
             font-size: 24px;
             display: flex;
